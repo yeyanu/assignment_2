@@ -1,0 +1,7 @@
+Make it executable:
+chmod +x /home/synopsis/ANISH_DEY/ASSIGNMENT_2/run_all.sh
+
+Run the script:
+cd /home/synopsis/ANISH_DEY/ASSIGNMENT_2
+./run_all.sh
+
